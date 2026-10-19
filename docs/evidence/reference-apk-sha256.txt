@@ -1,0 +1,1 @@
+9052da2a1ff163301785e579b4d834d9692771968dac74af672a4b8a7a9b0909  analysis-inputs/endless-reader-device-base.apk

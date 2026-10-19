@@ -1,0 +1,8 @@
+.gradle/
+.tools/
+local.properties
+**/build/
+.signing/
+.idea/
+*.iml
+analysis-inputs/

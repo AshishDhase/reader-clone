@@ -1,0 +1,248 @@
+[
+  {
+    "path": "assets/assets/monster_bundles/all/animation/animation.data",
+    "bytes": 1556,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/all/manifest.data",
+    "bytes": 711,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/all/puzzle/puzzle.data",
+    "bytes": 1350,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/all/sentence/sentence.data",
+    "bytes": 4094,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/ball/animation/animation.data",
+    "bytes": 1557,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/ball/manifest.data",
+    "bytes": 711,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/ball/puzzle/puzzle.data",
+    "bytes": 1351,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/ball/sentence/sentence.data",
+    "bytes": 3673,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/bundles.plist",
+    "bytes": 125929,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/cake/animation/animation.data",
+    "bytes": 1557,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/cake/manifest.data",
+    "bytes": 711,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/cake/puzzle/puzzle.data",
+    "bytes": 1351,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/cake/sentence/sentence.data",
+    "bytes": 3932,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/dog/animation/animation.data",
+    "bytes": 1556,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/dog/manifest.data",
+    "bytes": 711,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/dog/puzzle/puzzle.data",
+    "bytes": 1350,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/dog/sentence/sentence.data",
+    "bytes": 4575,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/eat/animation/animation.data",
+    "bytes": 1556,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/eat/manifest.data",
+    "bytes": 711,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/eat/puzzle/puzzle.data",
+    "bytes": 1350,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/eat/sentence/sentence.data",
+    "bytes": 3691,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/funny/animation/animation.data",
+    "bytes": 1558,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/funny/manifest.data",
+    "bytes": 711,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/funny/puzzle/puzzle.data",
+    "bytes": 1352,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/funny/sentence/sentence.data",
+    "bytes": 4568,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/AboutBox/about_box.data",
+    "bytes": 10672,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/AboutBox/popup/manifest.data",
+    "bytes": 1047,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/BabyGate/baby_gate.data",
+    "bytes": 3136,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/StorageWarning/storage_warning.data",
+    "bytes": 1010,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/episode_accessories/confetti/1/confetti.plist",
+    "bytes": 15091,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/episode_accessories/confetti/2/confetti.plist",
+    "bytes": 7974,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/episode_accessories/confetti/3/confetti.plist",
+    "bytes": 6645,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/episode_accessories/confetti/4/confetti.plist",
+    "bytes": 7699,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/episode_accessories/manifest.plist",
+    "bytes": 6778,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/episode_accessories/puff/puff.plist",
+    "bytes": 15161,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/episode_selection/episode_selection.data",
+    "bytes": 30482,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/episode_selection/game_selection.data",
+    "bytes": 6266,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/episode_selection/thumbs/accessories.plist",
+    "bytes": 30067,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/intro_animation/intro_animation.data",
+    "bytes": 1703,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/monster_bundles/letterPlacements.data",
+    "bytes": 2303,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  },
+  {
+    "path": "assets/assets/monster_bundles/global_bundle/monster_bundles/letterSpacing.data",
+    "bytes": 2415,
+    "prefixHex": "3c3f786d6c2076657273696f6e3d2231",
+    "format": "not JSON"
+  }
+]

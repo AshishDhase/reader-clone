@@ -1,0 +1,1303 @@
+{
+  "schemaVersion": 1,
+  "packId": "garden-words",
+  "title": "Garden words",
+  "words": [
+    {
+      "id": "core-a",
+      "text": "a",
+      "difficulty": 1,
+      "pronunciation": "a",
+      "sentence": "A little seed can grow.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-i",
+      "text": "i",
+      "difficulty": 1,
+      "pronunciation": "I",
+      "sentence": "I can sing a song.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-am",
+      "text": "am",
+      "difficulty": 1,
+      "pronunciation": "am",
+      "sentence": "I am ready to play.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-an",
+      "text": "an",
+      "difficulty": 1,
+      "pronunciation": "an",
+      "sentence": "An ant walks on a leaf.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-as",
+      "text": "as",
+      "difficulty": 1,
+      "pronunciation": "as",
+      "sentence": "Hop as high as you can.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-at",
+      "text": "at",
+      "difficulty": 1,
+      "pronunciation": "at",
+      "sentence": "Look at the moon.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-be",
+      "text": "be",
+      "difficulty": 1,
+      "pronunciation": "be",
+      "sentence": "Be kind to a friend.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-by",
+      "text": "by",
+      "difficulty": 1,
+      "pronunciation": "by",
+      "sentence": "Sit by the tree.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-do",
+      "text": "do",
+      "difficulty": 1,
+      "pronunciation": "do",
+      "sentence": "What do you see?",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-go",
+      "text": "go",
+      "difficulty": 1,
+      "pronunciation": "go",
+      "sentence": "We go to the park.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-he",
+      "text": "he",
+      "difficulty": 1,
+      "pronunciation": "he",
+      "sentence": "He has a red hat.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-if",
+      "text": "if",
+      "difficulty": 1,
+      "pronunciation": "if",
+      "sentence": "We can play if it is sunny.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-in",
+      "text": "in",
+      "difficulty": 1,
+      "pronunciation": "in",
+      "sentence": "The seed is in a pot.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-is",
+      "text": "is",
+      "difficulty": 1,
+      "pronunciation": "is",
+      "sentence": "The sun is warm.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-it",
+      "text": "it",
+      "difficulty": 1,
+      "pronunciation": "it",
+      "sentence": "It is time to play.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-me",
+      "text": "me",
+      "difficulty": 1,
+      "pronunciation": "me",
+      "sentence": "Can you help me?",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-my",
+      "text": "my",
+      "difficulty": 1,
+      "pronunciation": "my",
+      "sentence": "This is my book.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-no",
+      "text": "no",
+      "difficulty": 1,
+      "pronunciation": "no",
+      "sentence": "There is no rain today.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-on",
+      "text": "on",
+      "difficulty": 1,
+      "pronunciation": "on",
+      "sentence": "A bird sits on a branch.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-or",
+      "text": "or",
+      "difficulty": 1,
+      "pronunciation": "or",
+      "sentence": "Would you like milk or water?",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-so",
+      "text": "so",
+      "difficulty": 1,
+      "pronunciation": "so",
+      "sentence": "The flower is so pretty.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-to",
+      "text": "to",
+      "difficulty": 1,
+      "pronunciation": "to",
+      "sentence": "Let us go to the garden.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-up",
+      "text": "up",
+      "difficulty": 1,
+      "pronunciation": "up",
+      "sentence": "The balloon floats up.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-us",
+      "text": "us",
+      "difficulty": 1,
+      "pronunciation": "us",
+      "sentence": "Come and play with us.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-we",
+      "text": "we",
+      "difficulty": 1,
+      "pronunciation": "we",
+      "sentence": "We can read together.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-cat",
+      "text": "cat",
+      "difficulty": 1,
+      "pronunciation": "cat",
+      "sentence": "The cat takes a nap.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-dog",
+      "text": "dog",
+      "difficulty": 1,
+      "pronunciation": "dog",
+      "sentence": "The dog runs to the gate.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-sun",
+      "text": "sun",
+      "difficulty": 1,
+      "pronunciation": "sun",
+      "sentence": "The sun warms the garden.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-map",
+      "text": "map",
+      "difficulty": 1,
+      "pronunciation": "map",
+      "sentence": "We look at a map.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-hat",
+      "text": "hat",
+      "difficulty": 1,
+      "pronunciation": "hat",
+      "sentence": "My hat keeps me cool.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-cup",
+      "text": "cup",
+      "difficulty": 1,
+      "pronunciation": "cup",
+      "sentence": "The cup is full of water.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-bed",
+      "text": "bed",
+      "difficulty": 1,
+      "pronunciation": "bed",
+      "sentence": "The bear rests in bed.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-red",
+      "text": "red",
+      "difficulty": 1,
+      "pronunciation": "red",
+      "sentence": "I found a red leaf.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-big",
+      "text": "big",
+      "difficulty": 1,
+      "pronunciation": "big",
+      "sentence": "The big tree gives us shade.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-run",
+      "text": "run",
+      "difficulty": 1,
+      "pronunciation": "run",
+      "sentence": "We run across the grass.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-sit",
+      "text": "sit",
+      "difficulty": 1,
+      "pronunciation": "sit",
+      "sentence": "Sit beside your friend.",
+      "animation": {
+        "bounce": 1.12,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-and",
+      "text": "and",
+      "difficulty": 2,
+      "pronunciation": "and",
+      "sentence": "You and I can read.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-are",
+      "text": "are",
+      "difficulty": 2,
+      "pronunciation": "are",
+      "sentence": "The birds are singing.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-but",
+      "text": "but",
+      "difficulty": 2,
+      "pronunciation": "but",
+      "sentence": "I am small but I can help.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-can",
+      "text": "can",
+      "difficulty": 2,
+      "pronunciation": "can",
+      "sentence": "I can build a tower.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-did",
+      "text": "did",
+      "difficulty": 2,
+      "pronunciation": "did",
+      "sentence": "What did you find?",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-for",
+      "text": "for",
+      "difficulty": 2,
+      "pronunciation": "for",
+      "sentence": "This flower is for you.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-get",
+      "text": "get",
+      "difficulty": 2,
+      "pronunciation": "get",
+      "sentence": "Let us get a book.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-had",
+      "text": "had",
+      "difficulty": 2,
+      "pronunciation": "had",
+      "sentence": "We had fun in the garden.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-has",
+      "text": "has",
+      "difficulty": 2,
+      "pronunciation": "has",
+      "sentence": "The bird has a nest.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-her",
+      "text": "her",
+      "difficulty": 2,
+      "pronunciation": "her",
+      "sentence": "She carries her book.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-him",
+      "text": "him",
+      "difficulty": 2,
+      "pronunciation": "him",
+      "sentence": "I gave him a flower.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-his",
+      "text": "his",
+      "difficulty": 2,
+      "pronunciation": "his",
+      "sentence": "He puts on his boots.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-not",
+      "text": "not",
+      "difficulty": 2,
+      "pronunciation": "not",
+      "sentence": "The little seed is not a stone.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-one",
+      "text": "one",
+      "difficulty": 2,
+      "pronunciation": "one",
+      "sentence": "One bird sits in the tree.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-our",
+      "text": "our",
+      "difficulty": 2,
+      "pronunciation": "our",
+      "sentence": "This is our garden.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-out",
+      "text": "out",
+      "difficulty": 2,
+      "pronunciation": "out",
+      "sentence": "The chick comes out of its egg.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-see",
+      "text": "see",
+      "difficulty": 2,
+      "pronunciation": "see",
+      "sentence": "I see a butterfly.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-she",
+      "text": "she",
+      "difficulty": 2,
+      "pronunciation": "she",
+      "sentence": "She can hop on one foot.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-the",
+      "text": "the",
+      "difficulty": 2,
+      "pronunciation": "the",
+      "sentence": "The moon shines at night.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-they",
+      "text": "they",
+      "difficulty": 2,
+      "pronunciation": "they",
+      "sentence": "They plant a seed together.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-too",
+      "text": "too",
+      "difficulty": 2,
+      "pronunciation": "too",
+      "sentence": "I can help too.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-two",
+      "text": "two",
+      "difficulty": 2,
+      "pronunciation": "two",
+      "sentence": "Two ducks swim in the pond.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-was",
+      "text": "was",
+      "difficulty": 2,
+      "pronunciation": "was",
+      "sentence": "The tiny seed was asleep.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-way",
+      "text": "way",
+      "difficulty": 2,
+      "pronunciation": "way",
+      "sentence": "This path is the way home.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-who",
+      "text": "who",
+      "difficulty": 2,
+      "pronunciation": "who",
+      "sentence": "Who is behind the tree?",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-yes",
+      "text": "yes",
+      "difficulty": 2,
+      "pronunciation": "yes",
+      "sentence": "Yes, we can play together.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-you",
+      "text": "you",
+      "difficulty": 2,
+      "pronunciation": "you",
+      "sentence": "You can try again.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-with",
+      "text": "with",
+      "difficulty": 2,
+      "pronunciation": "with",
+      "sentence": "I share my book with you.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-this",
+      "text": "this",
+      "difficulty": 2,
+      "pronunciation": "this",
+      "sentence": "This is a soft leaf.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-that",
+      "text": "that",
+      "difficulty": 2,
+      "pronunciation": "that",
+      "sentence": "Look at that bright star.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-fish",
+      "text": "fish",
+      "difficulty": 2,
+      "pronunciation": "fish",
+      "sentence": "The fish swims in the pond.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-bird",
+      "text": "bird",
+      "difficulty": 2,
+      "pronunciation": "bird",
+      "sentence": "A bird sings in the tree.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-ball",
+      "text": "ball",
+      "difficulty": 2,
+      "pronunciation": "ball",
+      "sentence": "We roll the ball slowly.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-book",
+      "text": "book",
+      "difficulty": 2,
+      "pronunciation": "book",
+      "sentence": "Let us read a book.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-tree",
+      "text": "tree",
+      "difficulty": 2,
+      "pronunciation": "tree",
+      "sentence": "A tree grows from a seed.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-moon",
+      "text": "moon",
+      "difficulty": 2,
+      "pronunciation": "moon",
+      "sentence": "The moon looks round tonight.",
+      "animation": {
+        "bounce": 1.24,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-all",
+      "text": "all",
+      "difficulty": 3,
+      "pronunciation": "all",
+      "sentence": "We all help in the garden.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-away",
+      "text": "away",
+      "difficulty": 3,
+      "pronunciation": "away",
+      "sentence": "The butterfly flies away.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-blue",
+      "text": "blue",
+      "difficulty": 3,
+      "pronunciation": "blue",
+      "sentence": "The sky is blue today.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-come",
+      "text": "come",
+      "difficulty": 3,
+      "pronunciation": "come",
+      "sentence": "Come and see the new flower.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-down",
+      "text": "down",
+      "difficulty": 3,
+      "pronunciation": "down",
+      "sentence": "A leaf floats down.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-each",
+      "text": "each",
+      "difficulty": 3,
+      "pronunciation": "each",
+      "sentence": "Each seed needs water.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-find",
+      "text": "find",
+      "difficulty": 3,
+      "pronunciation": "find",
+      "sentence": "Can you find the little snail?",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-from",
+      "text": "from",
+      "difficulty": 3,
+      "pronunciation": "from",
+      "sentence": "A sprout grows from the seed.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-give",
+      "text": "give",
+      "difficulty": 3,
+      "pronunciation": "give",
+      "sentence": "I give the plant some water.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-good",
+      "text": "good",
+      "difficulty": 3,
+      "pronunciation": "good",
+      "sentence": "It is a good day to play.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-have",
+      "text": "have",
+      "difficulty": 3,
+      "pronunciation": "have",
+      "sentence": "We have a new book.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-help",
+      "text": "help",
+      "difficulty": 3,
+      "pronunciation": "help",
+      "sentence": "I can help my friend.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-here",
+      "text": "here",
+      "difficulty": 3,
+      "pronunciation": "here",
+      "sentence": "Put the little pot here.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-jump",
+      "text": "jump",
+      "difficulty": 3,
+      "pronunciation": "jump",
+      "sentence": "The frog can jump far.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-like",
+      "text": "like",
+      "difficulty": 3,
+      "pronunciation": "like",
+      "sentence": "I like to read with you.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-little",
+      "text": "little",
+      "difficulty": 3,
+      "pronunciation": "little",
+      "sentence": "A little snail rests on a leaf.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-look",
+      "text": "look",
+      "difficulty": 3,
+      "pronunciation": "look",
+      "sentence": "Look at the tall sunflower.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-make",
+      "text": "make",
+      "difficulty": 3,
+      "pronunciation": "make",
+      "sentence": "We make a cozy nest.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-many",
+      "text": "many",
+      "difficulty": 3,
+      "pronunciation": "many",
+      "sentence": "Many stars shine at night.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-more",
+      "text": "more",
+      "difficulty": 3,
+      "pronunciation": "more",
+      "sentence": "The plant needs more water.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-new",
+      "text": "new",
+      "difficulty": 3,
+      "pronunciation": "new",
+      "sentence": "A new leaf is growing.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-now",
+      "text": "now",
+      "difficulty": 3,
+      "pronunciation": "now",
+      "sentence": "Now we can play a game.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-play",
+      "text": "play",
+      "difficulty": 3,
+      "pronunciation": "play",
+      "sentence": "We play beside the pond.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-said",
+      "text": "said",
+      "difficulty": 3,
+      "pronunciation": "said",
+      "sentence": "She said hello to the bird.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-some",
+      "text": "some",
+      "difficulty": 3,
+      "pronunciation": "some",
+      "sentence": "Some clouds look like sheep.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-there",
+      "text": "there",
+      "difficulty": 3,
+      "pronunciation": "there",
+      "sentence": "There is a frog on the rock.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-three",
+      "text": "three",
+      "difficulty": 3,
+      "pronunciation": "three",
+      "sentence": "Three seeds sleep in the soil.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-under",
+      "text": "under",
+      "difficulty": 3,
+      "pronunciation": "under",
+      "sentence": "A beetle hides under a leaf.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-want",
+      "text": "want",
+      "difficulty": 3,
+      "pronunciation": "want",
+      "sentence": "I want to read a story.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-water",
+      "text": "water",
+      "difficulty": 3,
+      "pronunciation": "water",
+      "sentence": "Water helps the flowers grow.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-where",
+      "text": "where",
+      "difficulty": 3,
+      "pronunciation": "where",
+      "sentence": "Where is the little bird?",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-what",
+      "text": "what",
+      "difficulty": 3,
+      "pronunciation": "what",
+      "sentence": "What can we build today?",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-when",
+      "text": "when",
+      "difficulty": 3,
+      "pronunciation": "when",
+      "sentence": "We rest when we feel tired.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-will",
+      "text": "will",
+      "difficulty": 3,
+      "pronunciation": "will",
+      "sentence": "The seed will grow tall.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    },
+    {
+      "id": "core-yellow",
+      "text": "yellow",
+      "difficulty": 3,
+      "pronunciation": "yellow",
+      "sentence": "A yellow flower opens today.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "pip"
+    },
+    {
+      "id": "core-green",
+      "text": "green",
+      "difficulty": 3,
+      "pronunciation": "green",
+      "sentence": "The green frog sits by the pond.",
+      "animation": {
+        "bounce": 1.3599999999999999,
+        "celebration": "leaves"
+      },
+      "character": "moss"
+    }
+  ]
+}

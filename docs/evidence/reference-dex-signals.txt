@@ -1,0 +1,808 @@
+542:  Class descriptor  : 'Landroidx/activity/ComponentActivity$$ExternalSyntheticLambda0;'
+582:  Class descriptor  : 'Landroidx/activity/ComponentActivity$1;'
+631:  Class descriptor  : 'Landroidx/activity/ComponentActivity$2$1;'
+686:  Class descriptor  : 'Landroidx/activity/ComponentActivity$2$2;'
+744:  Class descriptor  : 'Landroidx/activity/ComponentActivity$Api19Impl;'
+783:  Class descriptor  : 'Landroidx/activity/ComponentActivity$Api33Impl;'
+822:  Class descriptor  : 'Landroidx/activity/ComponentActivity$NonConfigurationInstances;'
+1648:  Class descriptor  : 'Landroidx/activity/result/ActivityResult$1;'
+1734:  Class descriptor  : 'Landroidx/activity/result/ActivityResult;'
+1894:  Class descriptor  : 'Landroidx/activity/result/ActivityResultCallback;'
+1910:  Class descriptor  : 'Landroidx/activity/result/ActivityResultCaller;'
+1931:  Class descriptor  : 'Landroidx/activity/result/ActivityResultLauncher;'
+1986:  Class descriptor  : 'Landroidx/activity/result/ActivityResultRegistry$CallbackAndContract;'
+2023:  Class descriptor  : 'Landroidx/activity/result/ActivityResultRegistry$LifecycleContainer;'
+2091:  Class descriptor  : 'Landroidx/activity/result/ActivityResultRegistry;'
+2452:  Class descriptor  : 'Landroidx/activity/result/ActivityResultRegistryOwner;'
+2992:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContract$SynchronousResult;'
+3036:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContract;'
+3083:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$Api33Impl;'
+3138:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$GetMultipleContents$Companion;'
+3199:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$PickMultipleVisualMedia$Companion;'
+3252:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$PickVisualMedia$Companion;'
+3323:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$PickVisualMedia$VisualMediaType;'
+3334:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$RequestMultiplePermissions$Companion;'
+3386:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$StartActivityForResult$Companion;'
+3423:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$StartIntentSenderForResult$Companion;'
+3460:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts;'
+30204:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserModel$ActivityChooserModelClient;'
+30220:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserModel$ActivityResolveInfo;'
+30335:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserModel$ActivitySorter;'
+30351:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserModel$HistoricalRecord;'
+30467:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserModel$OnChooseActivityListener;'
+30483:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserModel$PersistHistoryAsyncTask;'
+30588:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserModel;'
+31258:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserView$1;'
+31318:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserView$2;'
+31368:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserView$3;'
+31415:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserView$5;'
+31460:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserView$ActivityChooserViewAdapter;'
+31810:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserView$Callbacks;'
+31947:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserView$InnerLayout;'
+57937:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$$ExternalSyntheticLambda0;'
+57977:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$1;'
+58037:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$Api16Impl;'
+58114:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$Api21Impl;'
+58211:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$Api22Impl;'
+58250:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$Api23Impl;'
+58321:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$Api28Impl;'
+58361:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$Api30Impl;'
+58416:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$Api31Impl;'
+58455:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$OnRequestPermissionsResultCallback;'
+58471:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$PermissionCompatDelegate;'
+58492:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$RequestPermissionsRequestCodeValidator;'
+58508:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$SharedElementCallback21Impl;'
+58668:  Class descriptor  : 'Landroidx/core/app/ActivityManagerCompat;'
+58707:  Class descriptor  : 'Landroidx/core/app/ActivityOptionsCompat$Api16Impl;'
+58783:  Class descriptor  : 'Landroidx/core/app/ActivityOptionsCompat$Api21Impl;'
+58852:  Class descriptor  : 'Landroidx/core/app/ActivityOptionsCompat$Api23Impl;'
+58923:  Class descriptor  : 'Landroidx/core/app/ActivityOptionsCompat$Api24Impl;'
+58977:  Class descriptor  : 'Landroidx/core/app/ActivityOptionsCompat;'
+59206:  Class descriptor  : 'Landroidx/core/app/ActivityRecreator$1;'
+59256:  Class descriptor  : 'Landroidx/core/app/ActivityRecreator$2;'
+59306:  Class descriptor  : 'Landroidx/core/app/ActivityRecreator$3;'
+59370:  Class descriptor  : 'Landroidx/core/app/ActivityRecreator$LifecycleCheckCallbacks;'
+59525:  Class descriptor  : 'Landroidx/core/app/ActivityRecreator;'
+60894:  Class descriptor  : 'Landroidx/core/app/ComponentActivity$ExtraData;'
+79817:  Class descriptor  : 'Landroidx/core/content/pm/ActivityInfoCompat;'
+187248:  Class descriptor  : 'Landroidx/lifecycle/EmptyActivityLifecycleCallbacks;'
+188985:  Class descriptor  : 'Landroidx/lifecycle/ReportFragment$ActivityInitializationListener;'
+200211:  Class descriptor  : 'Landroidx/vectordrawable/graphics/drawable/VectorDrawableCompat$VPathRenderer;'
+222631:  Class descriptor  : 'Lcom/android/billingclient/api/ProxyBillingActivity;'
+257957:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/AppRater$1;'
+258017:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/AppRater$2;'
+258071:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/AppRater$3;'
+258125:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/AppRater;'
+258241:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/DebugUI$1;'
+258287:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/DebugUI$2;'
+258333:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/DebugUI$3;'
+258379:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/DebugUI;'
+258582:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/EndlessReaderDataPersister;'
+258669:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/EndlessReaderIAPFacade$1;'
+258722:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/EndlessReaderIAPFacade$2;'
+258775:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/EndlessReaderIAPFacade$3;'
+258825:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/EndlessReaderSoundPlayer;'
+259177:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$16$1;'
+259225:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$ButtonHolder;'
+259286:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/ScreenUtils$1;'
+259333:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/ScreenUtils$2;'
+259380:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/ScreenUtils$OnQuestionBox;'
+259401:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/ScreenUtils$Size;'
+259434:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/ScreenUtils;'
+259688:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/SentenceOverlayUI$Word$1$1;'
+259733:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/SentenceOverlayUI$Word$1;'
+259786:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/SentenceOverlayUI$Word$2;'
+259831:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/SentenceOverlayUI$Word;'
+260094:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/SentenceOverlayUI;'
+260297:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/VideoView$1;'
+260346:  Class descriptor  : 'Lcom/originatorkids/EndlessReader/R$drawable;'
+260374:  Class descriptor  : 'Lcom/originatorkids/EndlessReader/R$mipmap;'
+260417:  Class descriptor  : 'Lcom/originatorkids/EndlessReader/R$raw;'
+260475:  Class descriptor  : 'Lcom/originatorkids/EndlessReader/R$string;'
+260548:  Class descriptor  : 'Lcom/originatorkids/EndlessReader/R$xml;'
+260576:  Class descriptor  : 'Lcom/originatorkids/EndlessReader/R;'
+368544:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxAccelerometer;'
+368550:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368556:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368560:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368564:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368568:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368573:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368585:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368603:        0x0000 - 0x0029 reg=2 this Lorg/cocos2dx/lib/Cocos2dxAccelerometer;
+368605:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368611:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368624:        0x0000 - 0x0006 reg=1 this Lorg/cocos2dx/lib/Cocos2dxAccelerometer;
+368625:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368638:        0x0000 - 0x0009 reg=3 this Lorg/cocos2dx/lib/Cocos2dxAccelerometer;
+368639:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368651:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxAccelerometer;)
+368673:        0x0000 - 0x0057 reg=7 this Lorg/cocos2dx/lib/Cocos2dxAccelerometer;
+368678:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;'
+368684:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)
+368688:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)
+368692:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)
+368696:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)
+368701:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)
+368718:        0x0000 - 0x000e reg=0 this Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;
+368722:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)
+368724:      type          : '(Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)I'
+368735:        0x0000 - 0x0003 reg=0 (null) Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;
+368736:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)
+368738:      type          : '(Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)I'
+368749:        0x0000 - 0x0003 reg=0 (null) Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;
+368750:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)
+368752:      type          : '(Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)[Ljava/lang/String;'
+368763:        0x0000 - 0x0003 reg=0 (null) Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;
+368764:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)
+368766:      type          : '(Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;)I'
+368777:        0x0000 - 0x0003 reg=0 (null) Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;
+368782:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxBitmap;'
+368787:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368792:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368797:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368802:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368807:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368812:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368817:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368823:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368836:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxBitmap;
+368837:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368839:      type          : '(Ljava/lang/String;IILandroid/graphics/Paint;)Lorg/cocos2dx/lib/Cocos2dxBitmap$TextProperty;'
+368859:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368875:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368895:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368927:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368951:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368971:    #7              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+368988:    #8              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+369008:    #9              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+369023:    #10              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+369024:      name          : 'nativeInitBitmapDC'
+369028:    #11              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+369058:    #12              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+369079:    #13              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+369093:    #14              : (in Lorg/cocos2dx/lib/Cocos2dxBitmap;)
+369133:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$1;'
+369140:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$1;)
+369142:      type          : 'Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;'
+369145:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$1;)
+369147:      type          : '(Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)V'
+369158:        0x0000 - 0x0006 reg=0 this Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$1;
+369159:        0x0000 - 0x0006 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;
+369161:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$1;)
+369176:        0x0000 - 0x0022 reg=2 this Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$1;
+369180:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$2;'
+369187:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$2;)
+369189:      type          : 'Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;'
+369192:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$2;)
+369194:      type          : '(Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)V'
+369205:        0x0000 - 0x0006 reg=0 this Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$2;
+369206:        0x0000 - 0x0006 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;
+369208:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$2;)
+369224:        0x0000 - 0x002c reg=0 this Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog$2;
+369231:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;'
+369237:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369241:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369245:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369249:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369253:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369257:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369261:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369265:    #7              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369269:    #8              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369273:    #9              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369277:    #10              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369281:    #11              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369285:    #12              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369289:    #13              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369293:    #14              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369297:    #15              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369301:    #16              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369305:    #17              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369309:    #18              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369313:    #19              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369317:    #20              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369321:    #21              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369325:    #22              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369329:    #23              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369333:    #24              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369337:    #25              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369341:    #26              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369345:    #27              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369350:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369386:        0x0000 - 0x003c reg=5 this Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;
+369394:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369396:      type          : '(Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)Landroid/widget/EditText;'
+369407:        0x0000 - 0x0003 reg=0 (null) Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;
+369408:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369410:      type          : '(Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)V'
+369421:        0x0000 - 0x0004 reg=0 (null) Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;
+369422:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369424:      type          : '(Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)V'
+369435:        0x0000 - 0x0004 reg=0 (null) Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;
+369436:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369450:        0x0000 - 0x0017 reg=3 this Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;
+369451:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369465:        0x0000 - 0x0014 reg=1 this Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;
+369467:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369481:        0x0000 - 0x0013 reg=3 this Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;
+369483:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;)
+369546:        0x0000 - 0x017a reg=8 this Lorg/cocos2dx/lib/Cocos2dxEditBoxDialog;
+369551:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxEditText;'
+369557:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditText;)
+369559:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+369562:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditText;)
+369575:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxEditText;
+369577:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxEditText;)
+369590:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxEditText;
+369593:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxEditText;)
+369606:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxEditText;
+369611:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxEditText;)
+369625:        0x0000 - 0x000d reg=0 this Lorg/cocos2dx/lib/Cocos2dxEditText;
+369628:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxEditText;)
+369630:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)V'
+369641:        0x0000 - 0x0003 reg=0 this Lorg/cocos2dx/lib/Cocos2dxEditText;
+369642:        0x0000 - 0x0003 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+369646:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$10;'
+369653:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$10;)
+369655:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+369657:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$10;)
+369662:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$10;)
+369664:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;I)V'
+369675:        0x0000 - 0x0008 reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$10;
+369676:        0x0000 - 0x0008 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+369679:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$10;)
+369692:        0x0000 - 0x000c reg=2 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$10;
+369696:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$11;'
+369703:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$11;)
+369705:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+369707:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$11;)
+369712:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$11;)
+369714:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;Ljava/lang/String;)V'
+369725:        0x0000 - 0x0008 reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$11;
+369726:        0x0000 - 0x0008 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+369729:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$11;)
+369742:        0x0000 - 0x000c reg=2 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$11;
+369746:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$12;'
+369753:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$12;)
+369755:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+369758:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$12;)
+369760:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)V'
+369771:        0x0000 - 0x0006 reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$12;
+369772:        0x0000 - 0x0006 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+369774:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$12;)
+369787:        0x0000 - 0x000a reg=1 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$12;
+369791:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$1;'
+369797:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$1;)
+369799:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+369802:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$1;)
+369804:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)V'
+369815:        0x0000 - 0x0006 reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$1;
+369816:        0x0000 - 0x0006 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+369818:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$1;)
+369846:        0x0000 - 0x00af reg=5 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$1;
+369851:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$2;'
+369858:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$2;)
+369860:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+369863:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$2;)
+369865:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)V'
+369876:        0x0000 - 0x0006 reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$2;
+369877:        0x0000 - 0x0006 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+369879:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$2;)
+369892:        0x0000 - 0x000a reg=1 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$2;
+369896:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$3;'
+369903:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$3;)
+369905:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+369908:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$3;)
+369910:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)V'
+369921:        0x0000 - 0x0006 reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$3;
+369922:        0x0000 - 0x0006 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+369924:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$3;)
+369937:        0x0000 - 0x000a reg=1 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$3;
+369941:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$4;'
+369948:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$4;)
+369950:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+369952:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$4;)
+369956:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$4;)
+369960:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$4;)
+369965:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$4;)
+369967:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;IFF)V'
+369978:        0x0000 - 0x000c reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$4;
+369979:        0x0000 - 0x000c reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+369984:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$4;)
+369997:        0x0000 - 0x0010 reg=4 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$4;
+370001:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$5;'
+370008:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$5;)
+370010:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+370012:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$5;)
+370016:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$5;)
+370020:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$5;)
+370025:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$5;)
+370027:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;IFF)V'
+370038:        0x0000 - 0x000c reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$5;
+370039:        0x0000 - 0x000c reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370044:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$5;)
+370057:        0x0000 - 0x0010 reg=4 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$5;
+370061:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$6;'
+370068:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$6;)
+370070:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+370072:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$6;)
+370076:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$6;)
+370080:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$6;)
+370085:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$6;)
+370087:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;[I[F[F)V'
+370098:        0x0000 - 0x000c reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$6;
+370099:        0x0000 - 0x000c reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370104:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$6;)
+370117:        0x0000 - 0x0010 reg=4 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$6;
+370121:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$7;'
+370128:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$7;)
+370130:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+370132:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$7;)
+370136:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$7;)
+370140:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$7;)
+370145:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$7;)
+370147:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;IFF)V'
+370158:        0x0000 - 0x000c reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$7;
+370159:        0x0000 - 0x000c reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370164:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$7;)
+370177:        0x0000 - 0x0010 reg=4 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$7;
+370181:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$8;'
+370188:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$8;)
+370190:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+370192:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$8;)
+370196:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$8;)
+370200:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$8;)
+370205:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$8;)
+370207:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;IFF)V'
+370218:        0x0000 - 0x000c reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$8;
+370219:        0x0000 - 0x000c reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370224:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$8;)
+370237:        0x0000 - 0x0010 reg=4 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$8;
+370241:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$9;'
+370248:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$9;)
+370250:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+370252:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$9;)
+370256:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$9;)
+370260:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$9;)
+370265:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$9;)
+370267:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;[I[F[F)V'
+370278:        0x0000 - 0x000c reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$9;
+370279:        0x0000 - 0x000c reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370284:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$9;)
+370297:        0x0000 - 0x0010 reg=4 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView$9;
+370301:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+370306:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370311:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370316:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370321:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370323:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+370325:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370327:      type          : 'Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;'
+370329:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370334:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370336:      type          : 'Lorg/cocos2dx/lib/Cocos2dxEditText;'
+370338:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370340:      type          : 'Lorg/cocos2dx/lib/Cocos2dxRenderer;'
+370343:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370355:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370370:        0x0000 - 0x000b reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370372:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370387:        0x0000 - 0x000b reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370390:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370392:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)Lorg/cocos2dx/lib/Cocos2dxEditText;'
+370403:        0x0000 - 0x0003 reg=0 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370404:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370406:      type          : '()Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;'
+370417:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370419:      type          : '()Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+370430:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370432:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)Lorg/cocos2dx/lib/Cocos2dxRenderer;'
+370443:        0x0000 - 0x0003 reg=0 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370444:    #7              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370459:    #8              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370488:    #9              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370501:        0x0000 - 0x0007 reg=1 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370502:    #10              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370519:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370532:        0x0000 - 0x0009 reg=1 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370533:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370535:      type          : '()Lorg/cocos2dx/lib/Cocos2dxEditText;'
+370546:        0x0000 - 0x0003 reg=1 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370547:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370563:        0x0000 - 0x0015 reg=1 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370564:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370577:        0x0000 - 0x0009 reg=1 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370579:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370594:        0x0000 - 0x001f reg=2 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370597:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370611:        0x0000 - 0x000d reg=1 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370612:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370627:        0x0000 - 0x0010 reg=1 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370628:    #7              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370642:        0x0000 - 0x000c reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370647:    #8              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370687:        0x0000 - 0x00a5 reg=7 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370689:    #9              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370691:      type          : '(Lorg/cocos2dx/lib/Cocos2dxEditText;)V'
+370706:        0x0000 - 0x0014 reg=1 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370707:        0x0000 - 0x0014 reg=2 (null) Lorg/cocos2dx/lib/Cocos2dxEditText;
+370708:    #10              : (in Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)
+370710:      type          : '(Lorg/cocos2dx/lib/Cocos2dxRenderer;)V'
+370722:        0x0000 - 0x0006 reg=0 this Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+370723:        0x0000 - 0x0006 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxRenderer;
+370727:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxHandler$1;'
+370734:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$1;)
+370736:      type          : 'Lorg/cocos2dx/lib/Cocos2dxHandler;'
+370739:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$1;)
+370741:      type          : '(Lorg/cocos2dx/lib/Cocos2dxHandler;)V'
+370752:        0x0000 - 0x0006 reg=0 this Lorg/cocos2dx/lib/Cocos2dxHandler$1;
+370753:        0x0000 - 0x0006 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxHandler;
+370755:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$1;)
+370770:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxHandler$DialogMessage;'
+370776:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$DialogMessage;)
+370780:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$DialogMessage;)
+370785:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$DialogMessage;)
+370800:        0x0000 - 0x0008 reg=0 this Lorg/cocos2dx/lib/Cocos2dxHandler$DialogMessage;
+370807:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxHandler$EditBoxMessage;'
+370813:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$EditBoxMessage;)
+370817:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$EditBoxMessage;)
+370821:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$EditBoxMessage;)
+370825:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$EditBoxMessage;)
+370829:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$EditBoxMessage;)
+370833:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$EditBoxMessage;)
+370838:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHandler$EditBoxMessage;)
+370857:        0x0000 - 0x0010 reg=0 this Lorg/cocos2dx/lib/Cocos2dxHandler$EditBoxMessage;
+370868:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxHandler;'
+370873:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHandler;)
+370878:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxHandler;)
+370884:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHandler;)
+370889:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHandler;)
+370891:      type          : '(Lorg/cocos2dx/lib/Cocos2dxActivity;)V'
+370903:        0x0000 - 0x000b reg=1 this Lorg/cocos2dx/lib/Cocos2dxHandler;
+370904:        0x0000 - 0x000b reg=2 (null) Lorg/cocos2dx/lib/Cocos2dxActivity;
+370905:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxHandler;)
+370924:        0x0000 - 0x0030 reg=2 this Lorg/cocos2dx/lib/Cocos2dxHandler;
+370926:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxHandler;)
+370941:        0x0000 - 0x0023 reg=9 this Lorg/cocos2dx/lib/Cocos2dxHandler;
+370944:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHandler;)
+370959:        0x0000 - 0x0011 reg=2 this Lorg/cocos2dx/lib/Cocos2dxHandler;
+370964:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxHelper$1;'
+370971:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHelper$1;)
+370976:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHelper$1;)
+370989:        0x0000 - 0x0006 reg=0 this Lorg/cocos2dx/lib/Cocos2dxHelper$1;
+370992:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHelper$1;)
+371005:        0x0000 - 0x0006 reg=1 this Lorg/cocos2dx/lib/Cocos2dxHelper$1;
+371009:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener;'
+371017:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener;)
+371022:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener;)
+371027:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener;)
+371035:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxHelper;'
+371040:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371044:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371048:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371050:      type          : 'Lorg/cocos2dx/lib/Cocos2dxMusic;'
+371052:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371054:      type          : 'Lorg/cocos2dx/lib/Cocos2dxSound;'
+371056:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371058:      type          : 'Lorg/cocos2dx/lib/Cocos2dxAccelerometer;'
+371060:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371062:      type          : 'Lorg/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener;'
+371064:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371070:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371083:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxHelper;
+371084:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371098:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371112:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371126:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371140:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371155:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371168:    #7              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371181:    #8              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371194:    #9              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371207:    #10              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371220:    #11              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371233:    #12              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371235:      type          : '(Landroid/content/Context;Lorg/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener;)V'
+371256:        0x0000 - 0x0037 reg=2 (null) Lorg/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener;
+371257:    #13              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371270:    #14              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371275:    #15              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371280:    #16              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371285:    #17              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371299:    #18              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371313:    #19              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371326:    #20              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371339:    #21              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371353:    #22              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371368:    #23              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371383:    #24              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371397:    #25              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371411:    #26              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371424:    #27              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371437:    #28              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371451:    #29              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371464:    #30              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371478:    #31              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371495:    #32              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371509:    #33              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371524:    #34              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371543:    #35              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371556:    #36              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371569:    #37              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371583:    #38              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371596:    #39              : (in Lorg/cocos2dx/lib/Cocos2dxHelper;)
+371614:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxMusic;'
+371619:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371625:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371629:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371633:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371637:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371641:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371645:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371650:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371662:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371677:        0x0000 - 0x0009 reg=0 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371679:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371701:        0x0000 - 0x0051 reg=7 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371703:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371720:        0x0000 - 0x000f reg=2 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371722:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371737:        0x0000 - 0x000b reg=1 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371738:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371752:        0x0000 - 0x000f reg=2 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371753:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371767:        0x0000 - 0x000b reg=1 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371768:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371783:        0x0000 - 0x0013 reg=1 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371784:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371815:        0x0000 - 0x0051 reg=1 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371818:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371835:        0x0000 - 0x001a reg=1 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371837:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371852:        0x0000 - 0x000f reg=2 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371853:    #7              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371874:        0x0000 - 0x0022 reg=2 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371875:    #8              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371890:        0x0000 - 0x0019 reg=2 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371892:    #9              : (in Lorg/cocos2dx/lib/Cocos2dxMusic;)
+371907:        0x0000 - 0x000b reg=1 this Lorg/cocos2dx/lib/Cocos2dxMusic;
+371911:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxRenderer;'
+371917:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371922:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371927:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371933:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371937:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371941:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371946:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371958:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371971:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+371972:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371977:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371982:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371983:      name          : 'nativeInit'
+371987:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371992:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+371997:    #7              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372002:    #8              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372007:    #9              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372012:    #10              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372013:      name          : 'nativeTouchesBegin'
+372017:    #11              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372018:      name          : 'nativeTouchesCancel'
+372022:    #12              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372023:      name          : 'nativeTouchesEnd'
+372027:    #13              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372028:      name          : 'nativeTouchesMove'
+372032:    #14              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372047:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372060:        0x0000 - 0x0005 reg=1 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372061:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372074:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372078:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372091:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372095:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372108:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372112:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372125:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372129:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372142:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372143:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372156:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372158:    #7              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372171:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372173:    #8              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372186:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372187:    #9              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372200:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372201:    #10              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372221:        0x0000 - 0x001f reg=6 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372223:    #11              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372235:    #12              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372249:        0x0000 - 0x000e reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372252:    #13              : (in Lorg/cocos2dx/lib/Cocos2dxRenderer;)
+372266:        0x0000 - 0x0005 reg=0 this Lorg/cocos2dx/lib/Cocos2dxRenderer;
+372272:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxSound;'
+372277:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372282:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372287:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372292:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372297:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372302:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372307:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372313:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372317:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372321:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372325:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372329:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372333:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372338:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372355:        0x0000 - 0x0017 reg=1 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372357:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372372:        0x0000 - 0x0010 reg=3 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372374:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372392:        0x0000 - 0x003c reg=3 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372394:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372411:        0x0000 - 0x0016 reg=1 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372412:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372425:        0x0000 - 0x0009 reg=2 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372426:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372439:        0x0000 - 0x0006 reg=1 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372440:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372453:        0x0000 - 0x0006 reg=1 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372455:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372476:        0x0000 - 0x0050 reg=9 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372479:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372495:        0x0000 - 0x001c reg=2 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372497:    #7              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372510:        0x0000 - 0x0006 reg=1 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372511:    #8              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372524:        0x0000 - 0x0006 reg=1 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372526:    #9              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372545:        0x0000 - 0x0054 reg=5 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372547:    #10              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372566:        0x0000 - 0x0044 reg=4 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372567:    #11              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372583:        0x0000 - 0x0049 reg=4 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372585:    #12              : (in Lorg/cocos2dx/lib/Cocos2dxSound;)
+372604:        0x0000 - 0x0040 reg=3 this Lorg/cocos2dx/lib/Cocos2dxSound;
+372609:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;'
+372616:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372622:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372624:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+372626:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372630:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372635:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372647:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372649:      type          : '(Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;)V'
+372661:        0x0000 - 0x0006 reg=0 this Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;
+372662:        0x0000 - 0x0006 reg=1 (null) Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;
+372663:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372678:        0x0000 - 0x0017 reg=2 this Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;
+372680:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372698:        0x0000 - 0x003d reg=2 this Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;
+372700:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372713:        0x0000 - 0x0007 reg=0 this Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;
+372718:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372738:        0x0000 - 0x0056 reg=0 this Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;
+372742:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372754:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;)
+372767:        0x0000 - 0x0003 reg=0 this Lorg/cocos2dx/lib/Cocos2dxTextInputWraper;
+372772:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxTypefaces;'
+372777:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxTypefaces;)
+372783:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxTypefaces;)
+372796:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxTypefaces;)
+372809:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxTypefaces;
+372810:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxTypefaces;)
+372834:  Class descriptor  : 'Lorg/cocos2dx/lib/R$drawable;'
+372839:    #0              : (in Lorg/cocos2dx/lib/R$drawable;)
+372846:    #0              : (in Lorg/cocos2dx/lib/R$drawable;)
+372862:  Class descriptor  : 'Lorg/cocos2dx/lib/R$string;'
+372867:    #0              : (in Lorg/cocos2dx/lib/R$string;)
+372874:    #0              : (in Lorg/cocos2dx/lib/R$string;)
+372890:  Class descriptor  : 'Lorg/cocos2dx/lib/R;'
+372897:    #0              : (in Lorg/cocos2dx/lib/R;)
+374122:  Class descriptor  : 'Landroidx/activity/ComponentActivity$$ExternalSyntheticLambda1;'
+374162:  Class descriptor  : 'Landroidx/activity/ComponentActivity$$ExternalSyntheticLambda2;'
+374202:  Class descriptor  : 'Landroidx/activity/ComponentActivity$2;'
+374384:  Class descriptor  : 'Landroidx/activity/result/ActivityResultRegistry$2;'
+374475:  Class descriptor  : 'Landroidx/activity/result/ActivityResultRegistry$3;'
+374566:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$CaptureVideo;'
+374684:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$CreateDocument;'
+374823:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$GetContent;'
+374942:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$GetMultipleContents;'
+375078:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$OpenDocument;'
+375197:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$OpenDocumentTree;'
+375316:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$OpenMultipleDocuments;'
+375436:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$PickContact;'
+375525:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$PickMultipleVisualMedia;'
+375706:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$PickVisualMedia$ImageAndVideo;'
+375748:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$PickVisualMedia$ImageOnly;'
+375790:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$PickVisualMedia$SingleMimeType;'
+375835:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$PickVisualMedia$VideoOnly;'
+375877:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$PickVisualMedia;'
+376029:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$RequestMultiplePermissions;'
+376198:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$RequestPermission;'
+376324:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$StartActivityForResult;'
+376431:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$StartIntentSenderForResult;'
+376553:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$TakePicture;'
+376671:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$TakePicturePreview;'
+376788:  Class descriptor  : 'Landroidx/activity/result/contract/ActivityResultContracts$TakeVideo;'
+377685:  Class descriptor  : 'Landroidx/appcompat/app/AppCompatActivity$1;'
+377731:  Class descriptor  : 'Landroidx/appcompat/app/AppCompatActivity$2;'
+397560:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserModel$DefaultSorter;'
+397625:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserView$4;'
+397698:  Class descriptor  : 'Landroidx/appcompat/widget/ActivityChooserView;'
+410669:  Class descriptor  : 'Landroidx/appcompat/widget/ShareActionProvider$ShareActivityChooserModelPolicy;'
+420471:  Class descriptor  : 'Landroidx/core/app/ActivityCompat$SharedElementCallback21Impl$$ExternalSyntheticLambda0;'
+420511:  Class descriptor  : 'Landroidx/core/app/ActivityCompat;'
+420876:  Class descriptor  : 'Landroidx/core/app/ActivityOptionsCompat$ActivityOptionsCompatImpl;'
+420983:  Class descriptor  : 'Landroidx/core/app/ComponentActivity;'
+445340:  Class descriptor  : 'Landroidx/fragment/app/FragmentActivity$1;'
+445389:  Class descriptor  : 'Landroidx/fragment/app/FragmentActivity$2;'
+452005:  Class descriptor  : 'Landroidx/lifecycle/LifecycleDispatcher$DispatcherActivityCallback;'
+492647:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/EndlessReaderContentDownloader;'
+492832:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/EndlessReaderIAPFacade;'
+493543:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/EndlessReaderSoundPlayer$1;'
+493600:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/EndlessReaderSoundPlayer$2;'
+493657:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$10;'
+493702:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$11;'
+493767:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$12;'
+493832:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$13;'
+493892:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$14;'
+493942:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$15;'
+493996:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$16;'
+494113:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$17;'
+494171:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$18;'
+494216:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$19;'
+494261:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$1;'
+494307:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$2;'
+494352:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$3;'
+494397:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$4;'
+494449:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$5;'
+494515:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$6;'
+494598:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$7;'
+494644:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$8;'
+494706:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity$9;'
+494759:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/VideoView;'
+562408:  Class descriptor  : 'Lorg/cocos2dx/lib/Cocos2dxActivity;'
+562412:    #0              : 'Lorg/cocos2dx/lib/Cocos2dxHelper$Cocos2dxHelperListener;'
+562414:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562420:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562422:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+562424:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562426:      type          : 'Lorg/cocos2dx/lib/Cocos2dxHandler;'
+562429:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562441:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562454:        0x0000 - 0x0004 reg=0 this Lorg/cocos2dx/lib/Cocos2dxActivity;
+562456:    #0              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562481:        0x0000 - 0x0042 reg=4 this Lorg/cocos2dx/lib/Cocos2dxActivity;
+562482:    #1              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562497:        0x0000 - 0x000a reg=0 this Lorg/cocos2dx/lib/Cocos2dxActivity;
+562499:    #2              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562501:      type          : '()Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+562512:        0x0000 - 0x0006 reg=1 this Lorg/cocos2dx/lib/Cocos2dxActivity;
+562513:    #3              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562528:        0x0000 - 0x000c reg=1 this Lorg/cocos2dx/lib/Cocos2dxActivity;
+562529:    #4              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562544:        0x0000 - 0x000c reg=1 this Lorg/cocos2dx/lib/Cocos2dxActivity;
+562545:    #5              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562558:        0x0000 - 0x0006 reg=1 this Lorg/cocos2dx/lib/Cocos2dxActivity;
+562560:    #6              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562576:        0x0000 - 0x0015 reg=2 this Lorg/cocos2dx/lib/Cocos2dxActivity;
+562579:    #7              : (in Lorg/cocos2dx/lib/Cocos2dxActivity;)
+562595:        0x0000 - 0x001c reg=9 this Lorg/cocos2dx/lib/Cocos2dxActivity;
+562653:  Class descriptor  : 'Landroidx/activity/ComponentActivity$3;'
+562703:  Class descriptor  : 'Landroidx/activity/ComponentActivity$4;'
+562753:  Class descriptor  : 'Landroidx/activity/ComponentActivity$5;'
+562801:  Class descriptor  : 'Landroidx/activity/ComponentActivity;'
+564482:  Class descriptor  : 'Landroidx/activity/result/ActivityResultRegistry$1;'
+578925:  Class descriptor  : 'Landroidx/fragment/app/FragmentActivity$HostCallbacks;'
+592384:  Class descriptor  : 'Lcom/originatorkids/EndlessAlphabet/MainActivity;'
+592386:  Superclass        : 'Lorg/cocos2dx/lib/Cocos2dxActivity;'
+592475:      type          : 'Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+592529:      type          : '(Landroid/view/View;)Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+592997:      type          : '()Lorg/cocos2dx/lib/Cocos2dxGLSurfaceView;'
+631471:  Class descriptor  : 'Landroidx/fragment/app/FragmentActivity;'
+688942:  Class descriptor  : 'Landroidx/appcompat/app/AppCompatActivity;'

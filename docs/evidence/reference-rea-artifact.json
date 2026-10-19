@@ -1,0 +1,14 @@
+{
+  "error": "Analysis failed",
+  "code": "artifact_operation_failed",
+  "category": "execution_failure",
+  "message": "Artifact contains an unsafe or conflicting internal path. Inspect the reported path and correct the artifact before retrying.",
+  "retryable": false,
+  "remediation": {
+    "action": "Artifact contains an unsafe or conflicting internal path. Inspect the reported path and correct the artifact before retrying."
+  },
+  "details": {
+    "operation": "inspect_artifact",
+    "reason": "path"
+  }
+}

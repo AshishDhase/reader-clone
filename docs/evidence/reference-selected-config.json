@@ -1,0 +1,89 @@
+[
+  {
+    "path": "assets/assets/monster_bundles/all/animation/animation.data",
+    "selectedConfigurationFields": [
+      {
+        "key": "Class",
+        "value": "MonsterAppVideoAnimationLayer"
+      },
+      {
+        "key": "doubleTapTimeInterval",
+        "value": 0.0
+      },
+      {
+        "key": "minimalSwipeDistance",
+        "value": 60.0
+      },
+      {
+        "key": "videoPath",
+        "value": "$(LOCAL)/animation.mp4"
+      }
+    ]
+  },
+  {
+    "path": "assets/assets/monster_bundles/all/puzzle/puzzle.data",
+    "selectedConfigurationFields": [
+      {
+        "key": "Class",
+        "value": "MonstersPuzzleResourceLayer"
+      },
+      {
+        "key": "sentenceBackgroundMusic",
+        "value": "$(GLOBAL)/music/bg_music1.mp3"
+      },
+      {
+        "key": "sentenceBackgroundMusicVolume",
+        "value": 0.4
+      },
+      {
+        "key": "wordBackgroundMusic",
+        "value": "$(GLOBAL)/music/bg_music1.mp3"
+      },
+      {
+        "key": "wordBackgroundMusicVolume",
+        "value": 0.3
+      }
+    ]
+  },
+  {
+    "path": "assets/assets/monster_bundles/all/sentence/sentence.data",
+    "selectedConfigurationFields": [
+      {
+        "key": "delay",
+        "value": 3.5
+      },
+      {
+        "key": "lifespan",
+        "value": 2
+      },
+      {
+        "key": "sound",
+        "value": "$(LOCAL)/sentence.mp3"
+      },
+      {
+        "key": "sound",
+        "value": "$(LOCAL)/all.mp3"
+      },
+      {
+        "key": "wiggleSound",
+        "value": "$(LOCAL)/all_wiggle.mp3"
+      },
+      {
+        "key": "sound",
+        "value": "$(LOCAL)/up.mp3"
+      },
+      {
+        "key": "wiggleSound",
+        "value": "$(LOCAL)/up_wiggle.mp3"
+      },
+      {
+        "key": "sound",
+        "value": "$(LOCAL)/the.mp3"
+      },
+      {
+        "key": "wiggleSound",
+        "value": "$(LOCAL)/the_wiggle.mp3"
+      }
+    ]
+  }
+]
